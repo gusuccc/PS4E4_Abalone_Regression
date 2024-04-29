@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d485b788-50ab-4cb1-b4df-881ed0bf4fa4" name="Changes" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/nerl_network.ipynb" afterDir="false" />
+    <list default="true" id="d485b788-50ab-4cb1-b4df-881ed0bf4fa4" name="Changes" comment="xgboost">
+      <change afterPath="$PROJECT_DIR$/xgb+lgb+cb.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/XGBoost.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/XGBoost.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data_program.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Data_program.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XGBoost.ipynb" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,7 +100,9 @@
       <workItem from="1713839883933" duration="2007000" />
       <workItem from="1713854298537" duration="2857000" />
       <workItem from="1713947111767" duration="2875000" />
-      <workItem from="1714026702626" duration="7619000" />
+      <workItem from="1714026702626" duration="7646000" />
+      <workItem from="1714095394140" duration="7246000" />
+      <workItem from="1714289989607" duration="16557000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <option name="closed" value="true" />
@@ -109,7 +112,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713755465275</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="xgboost">
+      <option name="closed" value="true" />
+      <created>1714037291054</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1714037291054</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -128,7 +139,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="xgboost" />
+    <option name="LAST_COMMIT_MESSAGE" value="xgboost" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
